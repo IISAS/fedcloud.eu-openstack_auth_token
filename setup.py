@@ -12,6 +12,6 @@ setup(name='openstack_auth_token',
       package_data={'openstack_auth_token': ['templates/*']},
       license='MIT',
       zip_safe=False,
-      install_requires=['openstack_auth',]
+      #install_requires=['openstack_auth',]
       )
 
